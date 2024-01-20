@@ -1,0 +1,10 @@
+Add:
+1.make (x) button work (Done)
+2.difficultys
+3.resizable
+3.highscore table with top 5 scores
+4.press any key to start
+
+
+Fix:
+1.food spawn in snake
